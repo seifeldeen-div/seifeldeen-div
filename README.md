@@ -1,9 +1,9 @@
 <img src="images/svg/header_en.svg"></img>
 
 <table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
+ <tr><td><a href="README.md"><img src="[images/us-flag.png](https://th.bing.com/th/id/R.a3aa863098cadde7811d060c19a577a5?rik=a1xPKyiA6awcbw&pid=ImgRaw&r=0)" height="13"> English</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="[images/fr-flag.png](https://tse1.mm.bing.net/th/id/OIP.roytYgOzu50SHrr3qWmyWAHaEo?rs=1&pid=ImgDetMain&o=7&rm=3)" height="13"> Français</a></td></tr>
+ <tr><td><a href="README_pt.md"><img src="[images/br-flag.png](https://www.pngmart.com/files/15/Egypt-Flag-PNG-Transparent-Picture.png)" height="13"> Arabic</a></td></tr>
 </table>
 
 ### :space_invader: &nbsp;About Me
