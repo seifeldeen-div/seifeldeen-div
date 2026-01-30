@@ -1,4 +1,5 @@
-![Header](github-banner.svg)
+<img src="github-banner.svg" alt="Header" width="100%" height="100%">
+
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> PROFESSIONAL SUMMARY 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 <p> A highly motivated Computer and Information student with a strong interest in design,
