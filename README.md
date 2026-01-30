@@ -26,3 +26,10 @@ problem-solving, and cybersecurity. Passionate about programming and driven by w
 ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
 ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
 ![OOP](https://img.shields.io/badge/OOP-DD0031.svg?&style=flat&logo=OOP&logoColor=white)&nbsp;
+<br><br>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Contact Me
+
+| <a href="https://wa.me/+201551313454" target="_blank"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemg3NnoxYnMwbXJncjRwNHZpeTNtaWpzOGx2b2lmZ2J2NzgybXYyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9tsKCeqTx8eGGoQ7Pc/giphy.gif" width="50" /></a> | <a href="tel:+201551313454"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhjZmd0bnIyb3BzeTNmcmo2dTUxZjQ1cTQwYm1uZDE1OGZrbGNpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I42AfDXwn5rhCDvu5H/giphy.gif" width="50" /></a> | <a href="mailto:seifeldeen112006@gmail.com?subject=Business-Work" >
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJsdzhndXJjeTUwdHVybHJsaTNxYW05YzlxMzFtd2s0ODk2N2NyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sckmKib234UFjwzq1g/giphy.gif"  width="50" /></a> |
+
