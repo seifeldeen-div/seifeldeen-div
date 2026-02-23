@@ -2,9 +2,10 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> PROFESSIONAL SUMMARY 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
-<p> A highly motivated Computer and Information student with a strong interest in design,
-problem-solving, and cybersecurity. Passionate about programming and driven by working in collaborative environments that enhance communication, innovation, and teamwork. I am motivated, disciplined, and able to work effectively within a team, with a strong desire to grow as a junior developer and contribute to real-world projects while continuously learning and improving.
-</p> <br><br>
+<p>
+  A highly motivated and detail-oriented professional with expertise in Front-End Development, programming, and design. Skilled in problem-solving and driven by creating innovative solutions within collaborative environments that enhance communication and teamwork. Experienced in delivering high-quality results under tight deadlines, with a strong commitment to continuous learning and professional growth. Eager to contribute effectively to real-world projects as a Front-End Developer while consistently improving technical skills and adding value to clients.
+</p>
+<br><br>
 
 <p align="right">
   <a href="mailto:seifeldeen112006@gmail.com?subject=Business-Work"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
