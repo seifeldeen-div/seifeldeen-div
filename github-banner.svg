@@ -181,11 +181,17 @@ g.typingUnderline rect {
 </path>
 
 <text font-family="Courier New" font-size=".22em" fill="white"
-      font-weight="bold" letter-spacing="1.5" text-anchor="middle">
-  <textPath xlink:href="#nameTyping" startOffset="50%">
+      font-weight="bold" letter-spacing="1.5">
+  <textPath xlink:href="#nameTyping">
       SEIF ELDEEN MOHAMED
   </textPath>
 </text>
+
+<g class="typingUnderline">
+  <rect fill="#FFFFFF" x="69" y="20.5" width="2.5" height="0.4" xlink:href="#underlineTyping">
+      <animate attributeName="visible" from="hidden" to="visible" dur="1s" fill="freeze"/>
+  </rect>
+</g>
 
 <path id="descriptionTyping">
   <animate attributeName="d" from="m27,-3 h0" to="m27,-3 h62" 
@@ -193,9 +199,9 @@ g.typingUnderline rect {
 </path>
 
 <text font-family="Helvetica" font-size=".12em" fill="white"
-     alignment-baseline="middle" font-style="italic" text-anchor="middle"> 
-  <textPath xlink:href="#descriptionTyping" startOffset="50%">
-      Full Stack Developer | React &amp; Python
+     alignment-baseline="middle" font-style="italic"> 
+  <textPath xlink:href="#descriptionTyping">
+      Full Stack Developer | React - Python
   </textPath>
 </text>
 
