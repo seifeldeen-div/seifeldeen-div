@@ -200,7 +200,7 @@ g.typingUnderline rect {
 
 <text font-family="Helvetica" font-size=".12em" fill="white"
      alignment-baseline="middle" font-style="italic"> 
-  <textPath xlink:href="#descriptionTyping">
+  <textPath xlink:href="#descriptionTyping" align="center">
       Full Stack Developer | React - Python
   </textPath>
 </text>
