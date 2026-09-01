@@ -27,7 +27,7 @@
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;\
 ![Django](https://img.shields.io/badge/Django-092E20.svg?style=flat&logo=django&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=openjdk&logoColor=white)&nbsp;
-![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
+![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp; <br />
 ![OOP](https://img.shields.io/badge/OOP-Object--Oriented%20Programming-6C63FF?style=flat)&nbsp; <br>
 ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
 <br><br>
