@@ -24,8 +24,8 @@
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp; <br />
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
-![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;\
-![Django](https://img.shields.io/badge/Django-092E20.svg?style=flat&logo=django&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20.svg?style=flat&logo=django&logoColor=white)&nbsp; <br />
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=openjdk&logoColor=white)&nbsp;
 ![Cpp](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp; <br />
 ![OOP](https://img.shields.io/badge/OOP-Object--Oriented%20Programming-6C63FF?style=flat)&nbsp; <br>
