@@ -195,7 +195,7 @@ g.typingUnderline rect {
 <text font-family="Helvetica" font-size=".12em" fill="white"
      alignment-baseline="middle" font-style="italic" text-anchor="middle"> 
   <textPath xlink:href="#descriptionTyping" startOffset="50%">
-      Full Stack Developer | React &amp; Python
+      Full Stack Developer | React.JS &amp; Django.Py
   </textPath>
 </text>
 
