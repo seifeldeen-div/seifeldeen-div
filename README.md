@@ -15,7 +15,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Knowledge
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
-![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;<br>
+![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;\
